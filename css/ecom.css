@@ -1,0 +1,92 @@
+*{margin:0px; padding:0px; box-sizing:border-box;}
+img{max-width:100%; height:auto; vertical-align:middle;}
+.bgclr{background-color:antiquewhite;}
+.name{margin-left:10%; line-height: 40px;}
+.clr{color:#8e9cb1;}
+.para{font-size:2.5rem;}
+.text-primary {color:#8e9cb1!important;}
+.clrrr{width:15%;
+         height:50px;
+         line-height:50px;
+         text-align:center;  
+         border-radius:100%;
+         background-color:#8e9cb1; color:blue;}
+/*==============
+.overlap{position:relative;}
+.first{width:100%; height:100%; position:absolute;}
+.overlap:hover .first{background-color:#b1b493; color:white;}
+
+.overlappp{position:relative; cursor:pointer;}
+.overrText{width:100%; height:100%; position:absolute;}
+.overlappp:hover .overrText{background-color:#b1b493; color:green;}
+================*/
+.sizz{font-size:2.5rem; color:#b1b493;}
+.bgclr{background-color:#b1b493;}
+.mrt{padding:10px; font-size:2.5rem; color:white;}
+.mrt1{padding:20px; color:white;}
+
+.bgclr ul li{list-style-type:none;}
+
+
+.bannr{width:100%; height:100%; cursor:pointer; position:relative;}
+.paraa{width:100%;
+    height:25%;
+    bottom:0%;
+    left:0%;
+    text-align:center; padding:10px;
+    position:absolute;
+    font-size:1.5rem;
+    color:rgba(255,255,255,0);}
+
+.bannr:hover .paraa{color:rgba(255,255,255,1);}
+
+.paraaa{color:white; font-size:2.8rem;}
+
+
+.story{line-height:25px; word-spacing:3px; padding:20px;}
+
+
+.over{width:100%; height:auto; overflow:hidden;}
+.over img{transition: all 1.4s;}
+.over:hover img{transform: scale(0.8);}
+
+
+/*==================contact us===========*/
+
+.iccon{width:12%;
+    height:50px;
+    line-height:50px;
+    text-align:center;
+    float:left;
+    display:block;
+    color:white;
+    border-radius:100%;
+    background-color:#b1b493;}
+
+
+.textt{margin-left:70px;}
+.textt span{font-size:1.2rem;}
+
+
+.bgg{background-color:#232931; color:white;}
+.ft-para{line-height:30px; word-spacing:3px;}
+.fttlink li{list-style-type:none;}
+.fttlink li a{text-decoration:none; color:aqua;}
+.fttlink ul li a i{margin-right:10px; color:white;}
+.socialsite{margin-left:25px;}
+.socialsite i{margin-right:10px; font-size:rem;}
+.icconn{width:13%;
+    height:40px;
+    line-height:40px;
+    text-align:center;
+    float:left;
+    display:block;
+    color:aqua;
+    cursor:pointer;
+    border-radius:100%;
+    background-color:#393f46;}
+
+
+
+
+
